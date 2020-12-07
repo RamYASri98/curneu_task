@@ -25,7 +25,8 @@ classify based on the target variable - Purchased.
 This model is implemented by using python. 
  
 Training and testing the data
-Train-test split : 75-25
+Train-test split : 75-25.
+
 Here 300 entries are trained and 
 100 entries are validated. 
 
