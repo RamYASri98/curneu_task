@@ -51,11 +51,19 @@ Libraries used
 Performance Measure
 
 Here, accuracy is measured by using Confusion matrix.
+	
+| Accuracy      | Predicted (purchased) |  Predicted (Not purchased)  |
+| ------------- | --------------------- | --------------------------  |
+|  Purchased    |          66           |           2                 |
+| Not purchased |           8           |           24                |
+
+Hence 90% accuracy is achieved using this SVM model.
+
 
 Visualization
 Output is visualized by using matplotlib library. 
 
-![](Output.jpg)
+![](
 
 
 
