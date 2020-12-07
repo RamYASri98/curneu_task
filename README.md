@@ -1,9 +1,12 @@
 # curneu_task
-A classification model is done for social network ads dataset. 
+A classification model is done for social network
+ads dataset. 
 
 Dataset description
 This project contains 400 data entries. 
+
 Attributes of the data include:
+
 1.User ID
 2.Gender 	
 3.Age 	
@@ -11,10 +14,12 @@ Attributes of the data include:
 5.Purchased
 
 Building a Model
+
 In machine learning, support-vector machines are 
 supervised learning models with associated learning
-algorithms that analyze data used for classification and
-regression analysis. 
+algorithms that analyze data used for classification 
+and regression analysis. 
+
 Therefore, SVM classification model is used to 
 classify based on the target variable - Purchased. 
 This model is implemented by using python. 
@@ -27,10 +32,13 @@ Here 300 entries are trained and
 Why Support vector machine classifier? 
 
 1.SVM works relatively well when there is a clear 
-margin of separation between classes.
+margin of separation between classes. 
+
 2.SVM is more effective in high dimensional spaces.
+
 3.SVM is effective in cases where the number of
 dimensions is greater than the number of samples.
+
 4.SVM is relatively memory efficient. 
 
 Libraries used
