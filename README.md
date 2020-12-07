@@ -1,6 +1,6 @@
 # Curneu_Task
 
-A classification model is done for social network
+A **Support Vector Machine classification** model is done for social network
 ads dataset. 
 
 ## Dataset description
@@ -29,11 +29,12 @@ Therefore, SVM classification model is used to
 classify based on the target variable - Purchased. 
 This model is implemented by using python. 
  
-Training and testing the data
-Train-test split : 75-25.
+## Training and testing the data
 
-Here 300 entries are trained and 
-100 entries are validated. 
+Train-test split : **75-25**.
+
+Here **300** entries are trained and 
+**100** entries are validated. 
 
 ### Why Support vector machine classifier? 
 
@@ -62,13 +63,13 @@ Here, accuracy is measured by using Confusion matrix.
 |  Purchased    |          66           |           2                 |
 | Not purchased |           8           |           24                |
 
-Hence 90% accuracy is achieved using this SVM model.
+Hence **90%** accuracy is achieved using this SVM model.
 
 
 ## Visualization
 
 Output is visualized by using matplotlib library. 
-Here, Listedcolormap library is used to achieve the colours used in the given plot.
+Here, **Listedcolormap** library is used to achieve the colours used in the given plot.
 
 ![](Output.jpg)
 
