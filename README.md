@@ -48,8 +48,14 @@ Libraries used
 2.Matplotlib
 3.Sklearn
 
+Performance Measure
+
+Here, accuracy is measured by using Confusion matrix.
+
 Visualization
 Output is visualized by using matplotlib library. 
+
+
 
 
 
