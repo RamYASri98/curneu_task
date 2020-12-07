@@ -7,10 +7,14 @@ This project contains 400 data entries.
 
 Attributes of the data include:
 
-1.User ID
+1.User ID 
+
 2.Gender 	
+
 3.Age 	
+
 4.Estimated salary 	
+
 5.Purchased
 
 Building a Model
@@ -63,7 +67,7 @@ Hence 90% accuracy is achieved using this SVM model.
 Visualization
 Output is visualized by using matplotlib library. 
 
-![](
+![](Output.jpg)
 
 
 
