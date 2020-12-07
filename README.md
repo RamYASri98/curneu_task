@@ -6,7 +6,7 @@ ads dataset.
 ## Dataset description
 This project contains 400 data entries. 
 
-## Attributes of the data include:
+### Attributes of the data include
 
 1.User ID 
 
@@ -66,7 +66,9 @@ Hence 90% accuracy is achieved using this SVM model.
 
 
 ## Visualization
+
 Output is visualized by using matplotlib library. 
+Here, Listedcolormap library is used to achieve the colours used in the given plot.
 
 ![](Output.jpg)
 
