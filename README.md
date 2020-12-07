@@ -11,24 +11,33 @@ Attributes of the data include:
 5.Purchased
 
 Building a Model
-In machine learning, support-vector machines are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis. 
-Therefore, SVM classification model is used to classify based on the target variable - Purchased. 
+In machine learning, support-vector machines are 
+supervised learning models with associated learning
+algorithms that analyze data used for classification and
+regression analysis. 
+Therefore, SVM classification model is used to 
+classify based on the target variable - Purchased. 
 This model is implemented by using python. 
  
 Training and testing the data
 Train-test split : 75-25
-Here 300 entries are trained and 100 entries are validated. 
+Here 300 entries are trained and 
+100 entries are validated. 
+
 Why Support vector machine classifier? 
-SVM works relatively well when there is a clear margin of separation between classes.
-SVM is more effective in high dimensional spaces.
-SVM is effective in cases where the number of dimensions is greater than the number of samples.
-SVM is relatively memory efficient. 
+
+1.SVM works relatively well when there is a clear 
+margin of separation between classes.
+2.SVM is more effective in high dimensional spaces.
+3.SVM is effective in cases where the number of
+dimensions is greater than the number of samples.
+4.SVM is relatively memory efficient. 
 
 Libraries used
 
-Numpy 
-Matplotlib
-Sklearn
+1.Numpy 
+2.Matplotlib
+3.Sklearn
 
 Visualization
 
