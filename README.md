@@ -1,4 +1,3 @@
-# Curneu_Task
 
 A **Support Vector Machine classification** model is done for social network
 ads dataset. 
